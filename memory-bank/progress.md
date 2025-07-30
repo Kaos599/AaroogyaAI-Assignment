@@ -13,8 +13,7 @@ README.md has been significantly refined and upgraded to be more visually appeal
 
 ### What's Left to Build
 
-*   Further enhancements as outlined in the 'Future Enhancements' section of README.md.
-*   Implementation of core RAG bot functionalities (if not already completed, based on further analysis).
+*   None
 
 ### Known Issues
 
