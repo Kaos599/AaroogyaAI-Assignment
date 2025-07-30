@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-tavily
+chromadb
+google-generativeai
+tavily-python
+beautifulsoup4
+requests
+pypdf
+sentence-transformers
+google-trans-new
+streamlit
