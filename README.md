@@ -126,11 +126,3 @@ streamlit run mini_rag_bot/src/app_streamlit.py
 
 This command will open the application in your default web browser. From there, you can easily upload your documents (PDFs or HTML files) and interact with the chatbot through a conversational interface.
 
-## 🔮 Future Enhancements
-
-We are continuously working to improve the Mini-RAG Bot. Here are some planned enhancements:
-
-*   **Support for More Document Types**: Expanding document ingestion capabilities to include formats like DOCX, Markdown, etc.
-*   **Advanced RAG Strategies**: Implementing more sophisticated retrieval techniques for even greater accuracy and relevance.
-*   **User Authentication and Management**: Adding features for user accounts and personalized experiences.
-*   **Deployment Options**: Providing guidelines and scripts for deploying the bot on cloud platforms.
